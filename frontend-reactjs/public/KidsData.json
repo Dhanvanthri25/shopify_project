@@ -1,0 +1,202 @@
+[
+    {
+        "id":1,
+        "name":"Kids Outfit",
+        "brand":"H&M",
+        "gender":"Kids",
+        "category":"Kids Fashion",
+        "price":2344,
+        "items_left":9,
+        "imageURL":"https://i.pinimg.com/736x/d9/c8/18/d9c818ba55e7fee4af996733230abe54.jpg"
+     },
+     {
+        "id":2,
+        "name":"Kids Outfit",
+        "brand":"Boden",
+        "gender":"Kids",
+        "category":"Kids Fashion",
+        "price":2344,
+        "items_left":12,
+        "imageURL":"https://i.pinimg.com/736x/c5/50/de/c550de094cc85eb81f01bd9127375579.jpg"
+     },
+     {
+        "id":3,
+        "name":"Kids Outfit",
+        "brand":"H&M",
+        "gender":"Kids",
+        "category":"Kids Fashion",
+        "price":1455,
+        "items_left":7,
+        "imageURL":"https://i.pinimg.com/564x/c6/7b/3a/c67b3a0ec5a3a39082d84a9cc0efc302.jpg"
+     },
+     {
+        "id":4,
+        "name":"Kids Outfit",
+        "brand":"Boden",
+        "gender":"Kids",
+        "category":"Kids Fashion",
+        "price":1221,
+        "items_left":2,
+        "imageURL":"https://i.pinimg.com/564x/b2/62/c9/b262c9c2b7cdd69c98313d705fba7453.jpg"
+     },
+     {
+        "id":5,
+        "name":"Kids Outfit",
+        "brand":"Little kangaroos",
+        "gender":"Kids",
+        "category":"Kids Fashion",
+        "price":4322,
+        "items_left":6,
+        "imageURL":"https://i.pinimg.com/736x/bb/59/6a/bb596abbf72e77488eb0c7f010c8528f.jpg"
+     },
+     {
+        "id":6,
+        "name":"Kids Outfit",
+        "brand":"H&M",
+        "gender":"Kids",
+        "category":"Kids Fashion",
+        "price":3443,
+        "items_left":12,
+        "imageURL":"https://i.pinimg.com/564x/d7/c3/1e/d7c31e5c698599bc7692ca64394f0ce7.jpg"
+     },
+     {
+        "id":7,
+        "name":"Kids Outfit",
+        "brand":"Boden",
+        "gender":"Kids",
+        "category":"Kids Fashion",
+        "price":7655,
+        "items_left":2,
+        "imageURL":"https://i.pinimg.com/564x/12/fc/d1/12fcd1638c17b9ee99492352a2a3c54e.jpg"
+     },
+     {
+        "id":8,
+        "name":"Kids Outfit",
+        "brand":"Little kangaroos",
+        "gender":"Kids",
+        "category":"Kids Fashion",
+        "price":1333,
+        "items_left":2,
+        "imageURL":"https://i.pinimg.com/736x/67/a5/e1/67a5e1a6059019671a0d9d8a78f9f3d8.jpg"
+     },
+     {
+        "id":9,
+        "name":"Kids Outfit",
+        "brand":"Boden",
+        "gender":"Kids",
+        "category":"Kids Fashion",
+        "price":6888,
+        "items_left":2,
+        "imageURL":"https://i.pinimg.com/736x/5c/67/9d/5c679dde565ace16cb0de058b5fd6154.jpg"
+     },
+     {
+        "id":10,
+        "name":"Kids Outfit",
+        "brand":"H&M",
+        "gender":"Kids",
+        "category":"Kids Fashion",
+        "price":2133,
+        "items_left":5,
+        "imageURL":"https://i.pinimg.com/736x/6b/95/24/6b9524a01b80bee97636cb651ee77510.jpg"
+     },
+     {
+        "id":11,
+        "name":"Kids Outfit",
+        "brand":"Little kangaroos",
+        "gender":"Kids",
+        "category":"Kids Fashion",
+        "price":2111,
+        "items_left":4,
+        "imageURL":"https://i.pinimg.com/736x/f8/9f/ff/f89ffff311758559a30ecb19c64f9c02.jpg"
+     },
+     {
+        "id":12,
+        "name":"Kids Outfit",
+        "brand":"H&M",
+        "gender":"Kids",
+        "category":"Kids Fashion",
+        "price":8777,
+        "items_left":3,
+        "imageURL":"https://i.pinimg.com/564x/d9/ad/2d/d9ad2d1c1877475d4985014efcecb6e8.jpg"
+     },
+     {
+        "id":13,
+        "name":"Kids Outfit",
+        "brand":"Little kangaroos",
+        "gender":"Kids",
+        "category":"Kids Fashion",
+        "price":7666,
+        "items_left":2,
+        "imageURL":"https://i.pinimg.com/564x/c4/32/cc/c432ccc6b2834ca3cf21767f207ef593.jpg"
+     },
+     {
+        "id":14,
+        "name":"Kids Outfit",
+        "brand":"Boden",
+        "gender":"Kids",
+        "category":"Kids Fashion",
+        "price":4333,
+        "items_left":1,
+        "imageURL":"https://i.pinimg.com/564x/c3/2f/ec/c32fec6324e9474684ebf9a6c5d576de.jpg"
+     },
+     {
+        "id":15,
+        "name":"Kids Outfit",
+        "brand":"Little kangaroos",
+        "gender":"Kids",
+        "category":"Kids Fashion",
+        "price":3211,
+        "items_left":7,
+        "imageURL":"https://i.pinimg.com/564x/e3/40/53/e3405306c1bdb2358185df45bd4cb8f3.jpg"
+     },
+     {
+        "id":16,
+        "name":"Kids Outfit",
+        "brand":"H&M",
+        "gender":"Kids",
+        "category":"Kids Fashion",
+        "price":7655,
+        "items_left":8,
+        "imageURL":"https://i.pinimg.com/564x/c3/2f/ec/c32fec6324e9474684ebf9a6c5d576de.jpg"
+     },
+     {
+        "id":17,
+        "name":"Kids Outfit",
+        "brand":"Boden",
+        "gender":"Kids",
+        "category":"Kids Fashion",
+        "price":2211,
+        "items_left":5,
+        "imageURL":"https://i.pinimg.com/564x/2c/20/0b/2c200bb1d6074af1f197d72f9397d7ca.jpg"
+     },
+     {
+        "id":18,
+        "name":"Kids Outfit",
+        "brand":"Little kangaroos",
+        "gender":"Kids",
+        "category":"Kids Fashion",
+        "price":7533,
+        "items_left":1,
+        "imageURL":"https://i.pinimg.com/564x/81/2a/46/812a46057f0aa4cf8421390221bba16b.jpg"
+     },
+     {
+        "id":19,
+        "name":"Kids Outfit",
+        "brand":"Boden",
+        "gender":"Kids",
+        "category":"Kids Fashion",
+        "price":1999,
+        "items_left":12,
+        "imageURL":"https://i.pinimg.com/564x/5b/8d/af/5b8dafb065ccee22ca7e02f3e9139000.jpg"
+     },
+     {
+        "id":20,
+        "name":"Kids Outfit",
+        "brand":"H&M",
+        "gender":"Kids",
+        "category":"Kids Fashion",
+        "price":2311,
+        "items_left":10,
+        "imageURL":"https://i.pinimg.com/564x/dc/35/54/dc35549571e89d43cae89a9174353602.jpg"
+     }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "id":1,
+        "name":"Womens Outfit",
+        "brand":"Zara",
+        "gender":"Womens",
+        "category":"Womens Fashion",
+        "price":5467,
+        "items_left":2,
+        "imageURL":"https://i.pinimg.com/736x/5e/7e/e8/5e7ee822009e0c48f277f39e6f2df80a.jpg"
+        },
+        {
+            "id":2,
+            "name":"Womens Outfit",
+            "brand":"Bibo",
+            "gender":"Womens",
+            "category":"Womens Fashion",
+            "price":3233,
+            "items_left":4,
+            "imageURL":"https://i.pinimg.com/736x/fe/23/83/fe2383c6c405080794a4468e440a191e.jpg"
+         },
+         {
+            "id":3,
+            "name":"Womens Outfit",
+            "brand":"Zara",
+            "gender":"Womens",
+            "category":"Womens Fashion",
+            "price":1222,
+            "items_left":4,
+            "imageURL":"https://i.pinimg.com/474x/1f/b4/fd/1fb4fd12162c3529c949f63d9f970d9c.jpg"
+        },
+        {
+            "id":4,
+            "name":"Womens Outfit",
+            "brand":"Bibo",
+            "gender":"Womens",
+            "category":"Womens Fashion",
+            "price":2344,
+            "items_left":6,
+            "imageURL":"https://i.pinimg.com/736x/c4/2c/fd/c42cfda011c721518bde25b4de872be6.jpg"
+         },
+         {
+            "id":5,
+            "name":"Womens Outfit",
+            "brand":"Zara",
+            "gender":"Womens",
+            "category":"Womens Fashion",
+            "price":4566,
+            "items_left":5,
+            "imageURL":"https://i.pinimg.com/736x/f3/cc/fd/f3ccfd3cfb90067ba0fdf5ad36d594f2.jpg"
+         },
+         {
+            "id":6,
+            "name":"Womens Outfit",
+            "brand":"Aurelia",
+            "gender":"Womens",
+            "category":"Womens Fashion",
+            "price":5453,
+            "items_left":5,
+            "imageURL":"https://i.pinimg.com/736x/c4/2c/fd/c42cfda011c721518bde25b4de872be6.jpg"
+         },
+         {
+            "id":7,
+            "name":"Womens Outfit",
+            "brand":"Zara",
+            "gender":"Womens",
+            "category":"Womens Fashion",
+            "price":5434,
+            "items_left":3,
+            "imageURL":"https://i.pinimg.com/736x/79/81/d2/7981d2432c6ca061076c2b138ee242dc.jpg"
+         },
+         {
+            "id":8,
+            "name":"Womens Outfit",
+            "brand":"Bibo",
+            "gender":"Womens",
+            "category":"Womens Fashion",
+            "price":3423,
+            "items_left":2,
+            "imageURL":"https://i.pinimg.com/736x/8e/f1/e7/8ef1e706fa21a52ac171d92921ee3b6d.jpg"
+         },
+         {
+            "id":9,
+            "name":"Womens Outfit",
+            "brand":"Zara",
+            "gender":"Womens",
+            "category":"Womens Fashion",
+            "price":5454,
+            "items_left":4,
+            "imageURL":"https://i.pinimg.com/474x/4e/73/0f/4e730f93b1111ac7529a0f1b08434bb3.jpg"
+         },
+         {
+            "id":10,
+            "name":"Womens Outfit",
+            "brand":"Bibo",
+            "gender":"Womens",
+            "category":"Womens Fashion",
+            "price":3422,
+            "items_left":11,
+            "imageURL":"https://i.pinimg.com/736x/71/29/15/71291517d872805e528fd06b45b3b7d4.jpg"
+         },
+         {
+            "id":11,
+            "name":"Womens Outfit",
+            "brand":"Aurelia",
+            "gender":"Womens",
+            "category":"Womens Fashion",
+            "price":8888,
+            "items_left":8,
+            "imageURL":"https://i.pinimg.com/564x/f6/7c/15/f67c1584246a370e88818ea00f612a85.jpg"
+         },
+         {
+            "id":12,
+            "name":"Womens Outfit",
+            "brand":"Aurelia",
+            "gender":"Womens",
+            "category":"Womens Fashion",
+            "price":9887,
+            "items_left":3,
+            "imageURL":"https://i.pinimg.com/564x/f6/7c/15/f67c1584246a370e88818ea00f612a85.jpg"
+         },
+         {
+            "id":13,
+            "name":"Womens Outfit",
+            "brand":"Zara",
+            "gender":"Womens",
+            "category":"Womens Fashion",
+            "price":11222,
+            "items_left":5,
+            "imageURL":"https://i.pinimg.com/564x/32/65/d5/3265d5d0c3dca6f77594e593d14b2e65.jpg"
+         },
+         {
+            "id":14,
+            "name":"Womens Outfit",
+            "brand":"Aurelia",
+            "gender":"Womens",
+            "category":"Womens Fashion",
+            "price":5544,
+            "items_left":33,
+            "imageURL":"https://i.pinimg.com/736x/24/2c/5e/242c5ed4dafa953da22b9226e44d7093.jpg"
+         },
+         {
+            "id":15,
+            "name":"Womens Outfit",
+            "brand":"Zara",
+            "gender":"Womens",
+            "category":"Womens Fashion",
+            "price":3434,
+            "items_left":1,
+            "imageURL":"https://i.pinimg.com/736x/cf/e9/f8/cfe9f8a0e51ace6cf2995477547ca504.jpg"
+         },
+         {
+            "id":16,
+            "name":"Womens Outfit",
+            "brand":"Bibo",
+            "gender":"Womens",
+            "category":"Womens Fashion",
+            "price":4332,
+            "items_left":24,
+            "imageURL":"https://i.pinimg.com/736x/af/8d/f2/af8df23b8db43762f48239661952eba0.jpg"
+         },
+         {
+            "id":17,
+            "name":"Womens Outfit",
+            "brand":"Zara",
+            "gender":"Womens",
+            "category":"Womens Fashion",
+            "price":7755,
+            "items_left":3,
+            "imageURL":"https://i.pinimg.com/736x/ef/30/39/ef3039ea8c2c9e12fc15e8bbbca0ef1b.jpg"
+         },
+         {
+            "id":18,
+            "name":"Womens Outfit",
+            "brand":"Bibo",
+            "gender":"Womens",
+            "category":"Womens Fashion",
+            "price":4234,
+            "items_left":2,
+            "imageURL":"https://i.pinimg.com/736x/e2/95/b7/e295b7a5dd362aa247ed7504d0d4f7d5.jpg"
+         },
+         {
+            "id":19,
+            "name":"Womens Outfit",
+            "brand":"Aurelia",
+            "gender":"Womens",
+            "category":"Womens Fashion",
+            "price":2323,
+            "items_left":5,
+            "imageURL":"https://i.pinimg.com/736x/c5/89/85/c589854460435955858e87b8c012f70c.jpg"
+         },
+         {
+            "id":20,
+            "name":"Womens Outfit",
+            "brand":"Zara",
+            "gender":"Womens",
+            "category":"Womens Fashion",
+            "price":3242,
+            "items_left":1,
+            "imageURL":"https://i.pinimg.com/736x/74/b7/d2/74b7d2c322b044d784e92779a6e88431.jpg"
+         }
+]

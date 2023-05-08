@@ -1,0 +1,158 @@
+										CartRabbit Project DataBase MySql Qurries
+
+
+create database shopify;
+show databases;
+use shopify; // Database Name
+
+show tables;
+
+cosmeticproduct
+kidsproduct
+menproduct
+perfumeproduct
+product // table consist of all category contents
+watchproduct
+womenproduct
+
+select * from Menproduct;
+1	Mens Outfit	Allen Solly	Men	Casual	2567	8	https://i.pinimg.com/736x/04/07/6b/04076b0ba8bafdeac814248fce50b5bd.jpg
+2	Mens Outfit	Allen Solly	Men	Casual	2322	3	https://i.pinimg.com/736x/87/4e/8c/874e8c4946e78f5491518198cd5bf90f.jpg
+3	Mens Outfit	Allen Solly	Men	Casual	2433	12	https://i.pinimg.com/564x/29/a1/d9/29a1d9526a30deb31d236660e90919d9.jpg
+4	Mens Outfit	Allen Solly	Men	Casual	2233	6	https://i.pinimg.com/736x/dd/de/14/ddde149b1134c4387cd174a99b8d2e31.jpg
+5	Mens Outfit	Allen Solly	Men	Casual	1333	5	https://i.pinimg.com/564x/26/ab/9c/26ab9c2f9f3eb7a21e342976dca35256.jpg
+6	Mens Outfit	Peter England	Men	Casual	4566	3	https://i.pinimg.com/736x/94/6b/28/946b28725d683625d470303425a14ba3.jpg
+7	Mens Outfit	Allen Solly	Men	Casual	3455	5	https://i.pinimg.com/736x/50/aa/53/50aa537879a674bcef93340d8deedc7b.jpg
+8	Mens Outfit	Peter England	Men	Casual	2344	5	https://i.pinimg.com/564x/cb/1b/c7/cb1bc7bc945c0607196ea7959bfe07f4.jpg
+9	Mens Outfit	Allen Solly	Men	Casual	1234	4	https://i.pinimg.com/736x/23/24/25/23242572925d75806578ac9d47cecc33.jpg
+10	Mens Outfit	Peter England	Men	Casual	2344	12	https://i.pinimg.com/474x/b5/1f/d5/b51fd587b1742dc91990d775b20e3c71.jpg
+11	Mens Outfit	Allen Solly	Men	Casual	1233	3	https://i.pinimg.com/736x/f3/94/92/f39492f3a659591b3da4878e80dc0d35.jpg
+12	Mens Outfit	Peter England	Men	Casual	2345	3	https://i.pinimg.com/736x/27/de/82/27de82e5208b5d04c92d06321b762d3d.jpg
+13	Mens Outfit	Allen Solly	Men	Casual	2344	5	https://i.pinimg.com/736x/e0/64/3d/e0643dc7aa210e03234f12bbfd5e927d.jpg
+14	Mens Outfit	Allen Solly	Men	Casual	1234	4	https://i.pinimg.com/564x/3a/cb/f9/3acbf93252cd34d03bb1da5a24af65d7.jpg
+15	Mens Outfit	Peter England	Men	Casual	1222	4	https://i.pinimg.com/736x/75/58/f3/7558f3c5175c6a2c3c11ed76b374f221.jpg
+16	Mens Outfit	Allen Solly	Men	Casual	3244	2	https://i.pinimg.com/736x/70/96/d2/7096d2a80ce3305351dd79ec9c79c3da.jpg
+17	Mens Outfit	Peter England	Men	Casual	3211	5	https://i.pinimg.com/736x/a8/1d/a7/a81da7529df600282a0c8e4c4a5460f8.jpg
+18	Mens Outfit	Allen Solly	Men	Casual	2333	4	https://i.pinimg.com/736x/66/20/aa/6620aac4cc2550368fc9bf8c94b40b7d.jpg
+19	Mens Outfit	Peter England	Men	Casual	2322	6	https://i.pinimg.com/736x/bd/aa/c9/bdaac9eff262f5c52885ff51f91b0c05.jpg
+20	Mens Outfit	Peter England	Men	Casual	2322	2	https://i.pinimg.com/564x/1c/c6/8c/1cc68cadd681ada1cb6f6f5e784936d5.jpg
+
+select * from Womenproduct;
+
+1	Womens Outfit	Zara	Womens	Womens Fashion	5467	2	https://i.pinimg.com/736x/5e/7e/e8/5e7ee822009e0c48f277f39e6f2df80a.jpg
+2	Womens Outfit	Bibo	Womens	Womens Fashion	3233	4	https://i.pinimg.com/736x/fe/23/83/fe2383c6c405080794a4468e440a191e.jpg
+3	Womens Outfit	Zara	Womens	Womens Fashion	1222	4	https://i.pinimg.com/474x/1f/b4/fd/1fb4fd12162c3529c949f63d9f970d9c.jpg
+4	Womens Outfit	Bibo	Womens	Womens Fashion	2344	6	https://i.pinimg.com/736x/c4/2c/fd/c42cfda011c721518bde25b4de872be6.jpg
+5	Womens Outfit	Zara	Womens	Womens Fashion	4566	5	https://i.pinimg.com/736x/f3/cc/fd/f3ccfd3cfb90067ba0fdf5ad36d594f2.jpg
+6	Womens Outfit	Aurelia	Womens	Womens Fashion	5453	5	https://i.pinimg.com/736x/c4/2c/fd/c42cfda011c721518bde25b4de872be6.jpg
+7	Womens Outfit	Zara	Womens	Womens Fashion	5434	3	https://i.pinimg.com/736x/79/81/d2/7981d2432c6ca061076c2b138ee242dc.jpg
+8	Womens Outfit	Bibo	Womens	Womens Fashion	3423	2	https://i.pinimg.com/736x/8e/f1/e7/8ef1e706fa21a52ac171d92921ee3b6d.jpg
+9	Womens Outfit	Zara	Womens	Womens Fashion	5454	4	https://i.pinimg.com/474x/4e/73/0f/4e730f93b1111ac7529a0f1b08434bb3.jpg
+10	Womens Outfit	Bibo	Womens	Womens Fashion	3422	11	https://i.pinimg.com/736x/71/29/15/71291517d872805e528fd06b45b3b7d4.jpg
+11	Womens Outfit	Aurelia	Womens	Womens Fashion	8888	8	https://i.pinimg.com/564x/f6/7c/15/f67c1584246a370e88818ea00f612a85.jpg
+12	Womens Outfit	Aurelia	Womens	Womens Fashion	9887	3	https://i.pinimg.com/564x/f6/7c/15/f67c1584246a370e88818ea00f612a85.jpg
+13	Womens Outfit	Zara	Womens	Womens Fashion	11222	5	https://i.pinimg.com/564x/32/65/d5/3265d5d0c3dca6f77594e593d14b2e65.jpg
+14	Womens Outfit	Aurelia	Womens	Womens Fashion	5544	33	https://i.pinimg.com/736x/24/2c/5e/242c5ed4dafa953da22b9226e44d7093.jpg
+15	Womens Outfit	Zara	Womens	Womens Fashion	3434	1	https://i.pinimg.com/736x/cf/e9/f8/cfe9f8a0e51ace6cf2995477547ca504.jpg
+16	Womens Outfit	Bibo	Womens	Womens Fashion	4332	24	https://i.pinimg.com/736x/af/8d/f2/af8df23b8db43762f48239661952eba0.jpg
+17	Womens Outfit	Zara	Womens	Womens Fashion	7755	3	https://i.pinimg.com/736x/ef/30/39/ef3039ea8c2c9e12fc15e8bbbca0ef1b.jpg
+18	Womens Outfit	Bibo	Womens	Womens Fashion	4234	2	https://i.pinimg.com/736x/e2/95/b7/e295b7a5dd362aa247ed7504d0d4f7d5.jpg
+19	Womens Outfit	Aurelia	Womens	Womens Fashion	2323	5	https://i.pinimg.com/736x/c5/89/85/c589854460435955858e87b8c012f70c.jpg
+20	Womens Outfit	Zara	Womens	Womens Fashion	3242	1	https://i.pinimg.com/736x/74/b7/d2/74b7d2c322b044d784e92779a6e88431.jpg
+
+
+select * from PerfumeProduct;
+
+1	Perfumes	Axe	Men	Fragrance	566	2	https://i.pinimg.com/564x/7d/f9/92/7df99282a38260fe29231ce4f7ae8de1.jpg
+2	Perfumes	Axe	Women	Fragrance	222	12	https://i.pinimg.com/564x/e4/c3/71/e4c371f175cd8390980033ea4eb6174d.jpg
+3	Perfumes	Park Avenue	Men	Fragrance	999	2	https://i.pinimg.com/564x/d5/2c/92/d52c922e4af2a0114e32f4dcfd8c9d81.jpg
+4	Perfumes	Fogg	Women	Fragrance	1455	2	https://i.pinimg.com/564x/48/8d/51/488d51d33443e293784fec53e435c03f.jpg
+5	Perfumes	Axe	Women	Fragrance	134	6	https://i.pinimg.com/564x/14/66/61/146661f6c70f881201b89cd20830a527.jpg
+6	Perfumes	Park Avenue	Men	Fragrance	377	7	https://i.pinimg.com/564x/1e/91/f7/1e91f7fe6bcc7d9ce3e5c1c118e6a2d1.jpg
+7	Perfumes	Fogg	Women	Fragrance	999	3	https://i.pinimg.com/564x/1e/17/72/1e1772fc39f5d6059f9cc74e30069cbc.jpg
+8	Perfumes	Axe	Men	Fragrance	388	3	https://i.pinimg.com/736x/24/6a/66/246a66d8e1e5d838047bfdee7e388ad4.jpg
+9	Perfumes	Fogg	Women	Fragrance	277	8	https://i.pinimg.com/564x/f3/a1/b4/f3a1b44b69dd8a04190f05969c0983a0.jpg
+10	Perfumes	Fogg	Women	Fragrance	188	4	https://i.pinimg.com/564x/d0/96/30/d0963081cdb871f81df94b3784cc96bb.jpg
+11	Perfumes	Axe	Women	Fragrance	654	9	https://i.pinimg.com/564x/0a/01/83/0a0183d849551bc32b32073406cb3523.jpg
+12	Perfumes	Fogg	Men	Fragrance	123	6	https://i.pinimg.com/564x/09/17/4f/09174f91273ceefaea0382b11d4cd93e.jpg
+13	Perfumes	Park Avenue	Women	Fragrance	888	4	https://i.pinimg.com/736x/8b/ff/cd/8bffcd2e1d8aa2a61670e228f9ba6486.jpg
+14	Perfumes	Fogg	Women	Fragrance	499	3	https://i.pinimg.com/564x/5c/7b/5c/5c7b5cececd12c8a4146821fc3937a11.jpg
+15	Perfumes	Axe	Men	Fragrance	1678	8	https://i.pinimg.com/564x/a3/03/1f/a3031fc8f0a4ab6da715f22976069c1d.jpg
+16	Perfumes	Fogg	Women	Fragrance	2111	9	https://i.pinimg.com/564x/84/90/ac/8490ac2701b7d55a0379f05c793fcfd6.jpg
+17	Perfumes	Fogg	Men	Fragrance	231	14	https://i.pinimg.com/564x/66/e5/a3/66e5a314affbaf2f4c445f1f991392b7.jpg
+18	Perfumes	Park Avenue	Women	Fragrance	532	9	https://i.pinimg.com/564x/98/30/94/983094a9d45332c15ae9a24c6e45f67b.jpg
+19	Perfumes	Axe	Women	Fragrance	633	6	https://i.pinimg.com/564x/6b/bf/38/6bbf385211a44519da69f93f0ee8333b.jpg
+20	Perfumes	Park Avenue	Men	Fragrance	899	12	https://i.pinimg.com/564x/f3/21/75/f3217549838e9753c26e294b23e6f1cc.jpg
+
+
+select * from WatchProduct;
+
+1	Watches	Titan	Men	Watches	2344	1	https://i.pinimg.com/564x/1a/cf/58/1acf581959de48a64613a9efefa9129b.jpg
+2	Watches	Rolex	Unisex	Watches	6444	12	https://i.pinimg.com/564x/38/40/f1/3840f1da0f70a97b2db4d6642f21a36a.jpg
+3	Watches	Fossil	Unisex	Watches	987	2	https://i.pinimg.com/564x/2c/ff/01/2cff01a792023ae7289d070a0f4567e7.jpg
+4	Watches	Titan	Unisex	Watches	8999	12	https://i.pinimg.com/564x/70/10/c3/7010c305f9fcc6c58ef7fc7ce5518f59.jpg
+5	Watches	Rolex	Men	Watches	1999	5	https://i.pinimg.com/736x/e7/da/fd/e7dafdc09b37bef537256823e55e9c92.jpg
+6	Watches	Fossil	Unisex	Watches	3444	6	https://i.pinimg.com/564x/83/70/d6/8370d65299a35034a61807f80dbe3c3f.jpg
+7	Watches	Titan	Men	Watches	799	3	https://i.pinimg.com/736x/c7/3c/15/c73c157d0e4af839fea56e2a9fe0e622.jpg
+8	Watches	Fossil	Unisex	Watches	6899	4	https://i.pinimg.com/564x/25/7b/ff/257bff7386f1cd45621f3cdf369c5f9e.jpg
+9	Watches	Titan	Unisex	Watches	2388	2	https://i.pinimg.com/564x/a8/d6/eb/a8d6eba350fa55886761c74afa2e04db.jpg
+10	Watches	Rolex	Men	Watches	1255	6	https://i.pinimg.com/736x/f1/69/41/f169414a6c93fe77d01a7ba3658f4a08.jpg
+11	Watches	Fossil	Unisex	Watches	789	2	https://i.pinimg.com/736x/d5/3d/0a/d53d0a81429e57a872cdd9ecbe357916.jpg
+12	Watches	Fossil	Unisex	Watches	1999	8	https://i.pinimg.com/736x/f1/69/41/f169414a6c93fe77d01a7ba3658f4a08.jpg
+13	Watches	Rolex	Men	Watches	5677	3	https://i.pinimg.com/564x/25/67/6b/25676bec46c842c1c2336341aad98e55.jpg
+14	Watches	Titan	Men	Watches	2777	7	https://i.pinimg.com/564x/15/3a/4f/153a4f0231bb41cbffe61ee71918dd2c.jpg
+15	Watches	Fossil	Unisex	Watches	8977	4	https://i.pinimg.com/564x/70/10/c3/7010c305f9fcc6c58ef7fc7ce5518f59.jpg
+16	Watches	Rolex	Unisex	Watches	3455	8	https://i.pinimg.com/736x/93/aa/45/93aa457122345cee3f0f3f4d7c5f328c.jpg
+17	Watches	Fossil	Unisex	Watches	977	8	https://i.pinimg.com/564x/3e/1d/f9/3e1df9fe42e99fc35d508a1eaa0713c0.jpg
+18	Watches	Rolex	Men	Watches	499	9	https://i.pinimg.com/736x/53/c9/2e/53c92e69525ae5f9ff8e55dc6ca3a2aa.jpg
+19	Watches	Fossil	Unisex	Watches	3990	7	https://i.pinimg.com/736x/ac/db/85/acdb85fc1e81c9a77b3e0187f41d692c.jpg
+20	Watches	Titan	Men	Watches	9455	13	https://i.pinimg.com/736x/0c/74/01/0c7401f61570e2f58b900071bdec3c33.jpg
+
+select * from KidsProduct;
+
+1	Kids Outfit	H&M	Kids	Kids Fashion	2344	9	https://i.pinimg.com/736x/d9/c8/18/d9c818ba55e7fee4af996733230abe54.jpg
+2	Kids Outfit	Boden	Kids	Kids Fashion	2344	12	https://i.pinimg.com/736x/c5/50/de/c550de094cc85eb81f01bd9127375579.jpg
+3	Kids Outfit	H&M	Kids	Kids Fashion	1455	7	https://i.pinimg.com/564x/c6/7b/3a/c67b3a0ec5a3a39082d84a9cc0efc302.jpg
+4	Kids Outfit	Boden	Kids	Kids Fashion	1221	2	https://i.pinimg.com/564x/b2/62/c9/b262c9c2b7cdd69c98313d705fba7453.jpg
+5	Kids Outfit	Little kangaroos	Kids	Kids Fashion	4322	6	https://i.pinimg.com/736x/bb/59/6a/bb596abbf72e77488eb0c7f010c8528f.jpg
+6	Kids Outfit	H&M	Kids	Kids Fashion	3443	12	https://i.pinimg.com/564x/d7/c3/1e/d7c31e5c698599bc7692ca64394f0ce7.jpg
+7	Kids Outfit	Boden	Kids	Kids Fashion	7655	2	https://i.pinimg.com/564x/12/fc/d1/12fcd1638c17b9ee99492352a2a3c54e.jpg
+8	Kids Outfit	Little kangaroos	Kids	Kids Fashion	1333	2	https://i.pinimg.com/736x/67/a5/e1/67a5e1a6059019671a0d9d8a78f9f3d8.jpg
+9	Kids Outfit	Boden	Kids	Kids Fashion	6888	2	https://i.pinimg.com/736x/5c/67/9d/5c679dde565ace16cb0de058b5fd6154.jpg
+10	Kids Outfit	H&M	Kids	Kids Fashion	2133	5	https://i.pinimg.com/736x/6b/95/24/6b9524a01b80bee97636cb651ee77510.jpg
+11	Kids Outfit	Little kangaroos	Kids	Kids Fashion	2111	4	https://i.pinimg.com/736x/f8/9f/ff/f89ffff311758559a30ecb19c64f9c02.jpg
+12	Kids Outfit	H&M	Kids	Kids Fashion	8777	3	https://i.pinimg.com/564x/d9/ad/2d/d9ad2d1c1877475d4985014efcecb6e8.jpg
+13	Kids Outfit	Little kangaroos	Kids	Kids Fashion	7666	2	https://i.pinimg.com/564x/c4/32/cc/c432ccc6b2834ca3cf21767f207ef593.jpg
+14	Kids Outfit	Boden	Kids	Kids Fashion	4333	1	https://i.pinimg.com/564x/c3/2f/ec/c32fec6324e9474684ebf9a6c5d576de.jpg
+15	Kids Outfit	Little kangaroos	Kids	Kids Fashion	3211	7	https://i.pinimg.com/564x/e3/40/53/e3405306c1bdb2358185df45bd4cb8f3.jpg
+16	Kids Outfit	H&M	Kids	Kids Fashion	7655	8	https://i.pinimg.com/564x/c3/2f/ec/c32fec6324e9474684ebf9a6c5d576de.jpg
+17	Kids Outfit	Boden	Kids	Kids Fashion	2211	5	https://i.pinimg.com/564x/2c/20/0b/2c200bb1d6074af1f197d72f9397d7ca.jpg
+18	Kids Outfit	Little kangaroos	Kids	Kids Fashion	7533	1	https://i.pinimg.com/564x/81/2a/46/812a46057f0aa4cf8421390221bba16b.jpg
+19	Kids Outfit	Boden	Kids	Kids Fashion	1999	12	https://i.pinimg.com/564x/5b/8d/af/5b8dafb065ccee22ca7e02f3e9139000.jpg
+20	Kids Outfit	H&M	Kids	Kids Fashion	2311	10	https://i.pinimg.com/564x/dc/35/54/dc35549571e89d43cae89a9174353602.jpg
+
+
+select * from CosmeticProduct;
+
+1	Kids Outfit	H&M	Kids	Kids Fashion	2344	9	https://i.pinimg.com/736x/d9/c8/18/d9c818ba55e7fee4af996733230abe54.jpg
+2	Kids Outfit	Boden	Kids	Kids Fashion	2344	12	https://i.pinimg.com/736x/c5/50/de/c550de094cc85eb81f01bd9127375579.jpg
+3	Kids Outfit	H&M	Kids	Kids Fashion	1455	7	https://i.pinimg.com/564x/c6/7b/3a/c67b3a0ec5a3a39082d84a9cc0efc302.jpg
+4	Kids Outfit	Boden	Kids	Kids Fashion	1221	2	https://i.pinimg.com/564x/b2/62/c9/b262c9c2b7cdd69c98313d705fba7453.jpg
+5	Kids Outfit	Little kangaroos	Kids	Kids Fashion	4322	6	https://i.pinimg.com/736x/bb/59/6a/bb596abbf72e77488eb0c7f010c8528f.jpg
+6	Kids Outfit	H&M	Kids	Kids Fashion	3443	12	https://i.pinimg.com/564x/d7/c3/1e/d7c31e5c698599bc7692ca64394f0ce7.jpg
+7	Kids Outfit	Boden	Kids	Kids Fashion	7655	2	https://i.pinimg.com/564x/12/fc/d1/12fcd1638c17b9ee99492352a2a3c54e.jpg
+8	Kids Outfit	Little kangaroos	Kids	Kids Fashion	1333	2	https://i.pinimg.com/736x/67/a5/e1/67a5e1a6059019671a0d9d8a78f9f3d8.jpg
+9	Kids Outfit	Boden	Kids	Kids Fashion	6888	2	https://i.pinimg.com/736x/5c/67/9d/5c679dde565ace16cb0de058b5fd6154.jpg
+10	Kids Outfit	H&M	Kids	Kids Fashion	2133	5	https://i.pinimg.com/736x/6b/95/24/6b9524a01b80bee97636cb651ee77510.jpg
+11	Kids Outfit	Little kangaroos	Kids	Kids Fashion	2111	4	https://i.pinimg.com/736x/f8/9f/ff/f89ffff311758559a30ecb19c64f9c02.jpg
+12	Kids Outfit	H&M	Kids	Kids Fashion	8777	3	https://i.pinimg.com/564x/d9/ad/2d/d9ad2d1c1877475d4985014efcecb6e8.jpg
+13	Kids Outfit	Little kangaroos	Kids	Kids Fashion	7666	2	https://i.pinimg.com/564x/c4/32/cc/c432ccc6b2834ca3cf21767f207ef593.jpg
+14	Kids Outfit	Boden	Kids	Kids Fashion	4333	1	https://i.pinimg.com/564x/c3/2f/ec/c32fec6324e9474684ebf9a6c5d576de.jpg
+15	Kids Outfit	Little kangaroos	Kids	Kids Fashion	3211	7	https://i.pinimg.com/564x/e3/40/53/e3405306c1bdb2358185df45bd4cb8f3.jpg
+16	Kids Outfit	H&M	Kids	Kids Fashion	7655	8	https://i.pinimg.com/564x/c3/2f/ec/c32fec6324e9474684ebf9a6c5d576de.jpg
+17	Kids Outfit	Boden	Kids	Kids Fashion	2211	5	https://i.pinimg.com/564x/2c/20/0b/2c200bb1d6074af1f197d72f9397d7ca.jpg
+18	Kids Outfit	Little kangaroos	Kids	Kids Fashion	7533	1	https://i.pinimg.com/564x/81/2a/46/812a46057f0aa4cf8421390221bba16b.jpg
+19	Kids Outfit	Boden	Kids	Kids Fashion	1999	12	https://i.pinimg.com/564x/5b/8d/af/5b8dafb065ccee22ca7e02f3e9139000.jpg
+20	Kids Outfit	H&M	Kids	Kids Fashion	2311	10	https://i.pinimg.com/564x/dc/35/54/dc35549571e89d43cae89a9174353602.jpg
+
+

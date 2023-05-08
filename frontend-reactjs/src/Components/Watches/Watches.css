@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Raleway&display=swap');
+
+
+.tit{
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: bolder;
+}
+.backs{
+    background-color: #96bf48;
+}

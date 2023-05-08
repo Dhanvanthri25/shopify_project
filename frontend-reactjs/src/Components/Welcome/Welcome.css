@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Raleway&display=swap');
+
+.wel {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: bolder;
+    padding: 45px;
+    border-radius: 15px 50px 30px;
+}
+
+.background {
+    background-color: #96bf48;
+}
+
+.but {
+    background-color: #96bf48;
+    font-weight: bolder;
+
+}
+
+.but:hover {
+    transition: 0.8s;
+    transform: scale(1.2);
+}
